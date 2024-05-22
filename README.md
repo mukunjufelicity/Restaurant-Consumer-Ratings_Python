@@ -1,4 +1,4 @@
-![image](https://github.com/mukunjufelicity/Restaurant-Consumer-Ratings_Python/assets/8385040/d18b6e51-ea30-4fdc-9894-4d3dadb032df)# Restaurant - Customer Rating Project
+# Restaurant - Customer Rating Project
 
 ## Introduction
 This project explores restaurant customer rating using Python libraries and Jupyter notebooks.
