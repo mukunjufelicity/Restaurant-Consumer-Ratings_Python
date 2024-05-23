@@ -4,7 +4,7 @@
 This project explores restaurant customer rating using Python libraries and Jupyter notebooks.
 
 ## Project Goal
-This project aims to analyze and predict restaurant ratings based on various factors, for example service, cuisine type, and restaurant locations. The dataset consists of information about restaurants, user profiles, and ratings given by users to different restaurants.
+This project aims to analyze and predict restaurant ratings based on various factors; for example service, cuisine type, and restaurant locations. The dataset consists of information about restaurants, user profiles, and ratings given by users to different restaurants.
 
 ## Project Overview
 The project involves several steps, including data loading, data cleaning, exploratory data analysis (EDA), feature engineering, model building, and evaluation. Here's an overview of the project workflow:
